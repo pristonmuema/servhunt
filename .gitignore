@@ -1,0 +1,5 @@
+../servhunt/.idea/
+servhunt
+*.out
+.coverage
+*.DS_Store

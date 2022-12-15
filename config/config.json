@@ -1,0 +1,16 @@
+{
+  "Database": {
+    "ConnectionUrl": "localhost:3306",
+    "User": "root",
+    "Password": "password",
+    "Name": "servhunt",
+    "ConnectionPool": 10,
+    "MaxIdleConnections": 3
+  },
+  "Cache": {
+    "ConnectionUrl": "localhost:6379",
+    "User": "",
+    "Password": "",
+    "Database": 0
+  }
+}
